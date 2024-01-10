@@ -1,9 +1,6 @@
 import React from "react";
 import { RiMovie2Line } from "react-icons/ri";
-import { FaRegBell } from "react-icons/fa6";
-import { AiOutlineBell } from "react-icons/ai";
-import { MdOutlineShoppingCart } from "react-icons/md";
-import { AiOutlineShoppingCart } from "react-icons/ai";
+import { AiOutlineBell, AiOutlineShoppingCart } from "react-icons/ai";
 import { MdOutlineAccountCircle } from "react-icons/md";
 
 const Navbar = () => {
