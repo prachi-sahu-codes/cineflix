@@ -1,12 +1,23 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#ffd62c",
+        yellowDark: "#ffd013",
+        navBg: "#111827",
+        bodyBg: "#030712",
+        cardBg: "#0a101c",
+        cardBgHover: "#1f2937",
+        modalBg: "#1f2937",
+        grayLight: "#e5e7eb",
+        grayMedium: "#6b7280",
+        grayDark: "#47515f",
+        textLight: "#eff0f1",
+        textMedium: "#858c98",
+      },
+    },
   },
   plugins: [],
-}
-
+};
