@@ -5,11 +5,11 @@ export default {
     extend: {
       colors: {
         primary: "#ffd62c",
-        yellowDark: "#ffd013",
+        yellowDark: "#e5b703",
         navBg: "#111827",
         bodyBg: "#030712",
         cardBg: "#0a101c",
-        cardBgHover: "#1f2937",
+        cardBgHover: "#18202b",
         modalBg: "#1f2937",
         grayLight: "#e5e7eb",
         grayMedium: "#6b7280",
