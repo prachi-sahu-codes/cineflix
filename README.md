@@ -1,8 +1,52 @@
-# React + Vite
+<div style="text-align:center;">
+![Title](./src/assets/title.png)
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CINEFLIX, an online movie store where users can see a list of movies listed for the renting purpose.
 
-Currently, two official plugins are available:
+It serves as a virtual hub, bringing together painters, sculptors, photographers, illustrators, designers, and enthusiasts from all corners of the globe.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Created to foster a vibrant community, Whizverse offers a unique platform for artists to showcase their work, connect with fellow creatives, gain inspiration, and build meaningful relationships within the artistic realm.
+
+## Visualizing the Project in Action
+
+https://github.com/prachi-sahu-codes/social-media/assets/87253962/cfe83645-17a4-447a-b38e-6f24cd30fa4d
+
+## Key Features
+
+- Home page for showing all movies.
+- User can Add or Remove movie from cart.
+- Cart detail modal for showcasing cart items and final pricing.
+- Individual movie detail modal with comprehensive information.
+- Infinite Scroll feature for movie listing.
+- 404 page for handling page not found errors.
+- Toast notifications and loaders for providing user feedback.
+- Fully responsive design for optimal user experience across devices.
+
+## Key Dependencies
+
+- **React JS:** A robust JavaScript library known for its component-based architecture and seamless UI rendering.
+- **React Router v6:** For dynamic routing and seamless navigation within the application
+- **React Hooks:** React Hooks like useState(), useEffect(), useReducer() and useContext() to enable efficient state management, dynamic routing, and enhanced user interactions.
+- **Tailwind CSS:** For custom styling, ensuring a unique and visually appealing user interface design.
+- **React Icons:** For enhancing the visual presentation.
+- **Maerial UI:** For building modern and visually appealing website.
+- **React Toastify:** to provide informative and intuitive feedback to users.
+
+## Installation and Usage Instructions
+
+To clone and run this application. From your command line:
+
+```
+# Clone this repository
+$ git clone https://github.com/prachi-sahu-codes/cineflix.git
+
+# Go into the repository
+$ cd cineflix
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run dev
+```
