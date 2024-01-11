@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { useData } from "../../context/DataProvider";
 import { Card, Loader, SecondaryBtn } from "../../components";
-import { ColorRing } from "react-loader-spinner";
 
 const Home = () => {
   const { state, limit, setLimit, dispatch } = useData();
