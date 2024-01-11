@@ -5,6 +5,16 @@
   box-sizing: border-box;
 }
 
-.color {
-  color: #ffd013;
+::-webkit-scrollbar {
+  width: 7px;
+  padding-top: 10rem;
+}
+
+::-webkit-scrollbar-track {
+  background: #414141;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0c121e;
+  border-radius: 8px;
 }
