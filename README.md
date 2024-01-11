@@ -1,4 +1,4 @@
-![title (1)](https://github.com/prachi-sahu-codes/cineflix/assets/87253962/78b230bb-8049-4a8d-9bf0-cb768f4de8b2)
+![title](https://github.com/prachi-sahu-codes/cineflix/assets/87253962/78b230bb-8049-4a8d-9bf0-cb768f4de8b2)
 
 
 CINEFLIX, an online movie store where users can see a list of movies listed for the renting purpose.
