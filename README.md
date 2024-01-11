@@ -1,16 +1,10 @@
 <div style="text-align:center;">
-![Title](./src/assets/title.png)
+    ![Title](./src/assets/title.png)
 </div>
 
 CINEFLIX, an online movie store where users can see a list of movies listed for the renting purpose.
 
-It serves as a virtual hub, bringing together painters, sculptors, photographers, illustrators, designers, and enthusiasts from all corners of the globe.
-
-Created to foster a vibrant community, Whizverse offers a unique platform for artists to showcase their work, connect with fellow creatives, gain inspiration, and build meaningful relationships within the artistic realm.
-
-## Visualizing the Project in Action
-
-https://github.com/prachi-sahu-codes/social-media/assets/87253962/cfe83645-17a4-447a-b38e-6f24cd30fa4d
+Users can explore the available movie selection, easily add desired films to their cart, review their selections, and proceed to checkout.
 
 ## Key Features
 
