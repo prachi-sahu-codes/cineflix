@@ -1,6 +1,4 @@
-<div style="text-align:center;">
-    ![Title](./src/assets/title.png)
-</div>
+![title](https://github.com/prachi-sahu-codes/cineflix/assets/87253962/e4b21a49-0d02-4d19-9966-3c754ca0e3bd)
 
 CINEFLIX, an online movie store where users can see a list of movies listed for the renting purpose.
 
