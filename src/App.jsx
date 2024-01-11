@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router";
 import { ToastContainer } from "react-toastify";
-import { Home } from "./pages";
+import { Home, NotFound } from "./pages";
 import { Navbar } from "./components";
 import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
@@ -8,7 +8,7 @@ import "./App.css";
 function App() {
   return (
     <>
-     <ToastContainer
+      <ToastContainer
         position="bottom-right"
         autoClose={2000}
         limit={4}
@@ -24,6 +24,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </>
   );
