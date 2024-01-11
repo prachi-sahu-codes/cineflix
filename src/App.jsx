@@ -1,11 +1,26 @@
 import { Routes, Route } from "react-router";
+import { ToastContainer } from "react-toastify";
 import { Home } from "./pages";
-import "./App.css";
 import { Navbar } from "./components";
+import "react-toastify/dist/ReactToastify.css";
+import "./App.css";
 
 function App() {
   return (
     <>
+     <ToastContainer
+        position="bottom-right"
+        autoClose={2000}
+        limit={4}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="dark"
+      />
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
