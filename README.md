@@ -23,7 +23,7 @@ Users can explore the available movie selection, easily add desired films to the
 - **React Hooks:** React Hooks like useState(), useEffect(), useReducer() and useContext() to enable efficient state management, dynamic routing, and enhanced user interactions.
 - **Tailwind CSS:** For custom styling, ensuring a unique and visually appealing user interface design.
 - **React Icons:** For enhancing the visual presentation.
-- **Maerial UI:** For building modern and visually appealing website.
+- **Material UI:** For building modern and visually appealing website.
 - **React Toastify:** to provide informative and intuitive feedback to users.
 
 ## Installation and Usage Instructions
